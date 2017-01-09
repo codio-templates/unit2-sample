@@ -41,6 +41,11 @@
     {
      "path": "#tabs",
      "action": "close"
+    },
+    {
+     "path": "unit2-test.py",
+     "panel": 0,
+     "action": "open"
     }
    ],
    "layout": "2-panels",
