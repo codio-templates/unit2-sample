@@ -1,0 +1,47 @@
+[
+ {
+  "taskId": "code-output-compare-1663632003",
+  "points": 1,
+  "results": [
+   {
+    "code": 0,
+    "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"Hello unit 2\\n\"}]}",
+    "timestamp": 1483968577653
+   },
+   {
+    "code": 2,
+    "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": false, \"stdout\": \"Hello unit 1\\n\"}]}",
+    "timestamp": 1483968561747
+   },
+   {
+    "code": 0,
+    "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"Hello unit 1\\n\"}]}",
+    "timestamp": 1483962940718
+   },
+   {
+    "code": 0,
+    "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"Hello unit 1\\n\"}]}",
+    "timestamp": 1483962936713,
+    "state": "pass"
+   }
+  ]
+ },
+ {
+  "taskId": "multiple-choice-2218712672",
+  "points": 1,
+  "state": {
+   "active": "4bbe8cc9-939b-3d9e-dcf9-c0c9c53aece6"
+  },
+  "results": [
+   {
+    "current": [
+     "4bbe8cc9-939b-3d9e-dcf9-c0c9c53aece6"
+    ],
+    "right": [
+     "4bbe8cc9-939b-3d9e-dcf9-c0c9c53aece6"
+    ],
+    "timestamp": 1483968557399
+   }
+  ]
+ }
+]
